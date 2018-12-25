@@ -1,0 +1,13 @@
+__pycache__/
+.idea/
+venv/
+.vscode/
+reload.py
+*/site/
+*.log
+test/*_post.py
+*.pickle
+*/task_set/
+*/log_files/
+*.pyc
+input.json.bak
